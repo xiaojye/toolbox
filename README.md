@@ -74,7 +74,7 @@ docker run --name toolbox -dit -p 8081:80 -v /var/toolbox:/app/www netcccyun/too
 
 #### 🍓 鸣谢
 
-* [aoaostar](https://github.com/netcccyun/toolbox)
+* [netcccyun](https://github.com/netcccyun/toolbox)
 * [aoaostar](https://github.com/aoaostar/toolbox)
 * vue
 * thinkphp
