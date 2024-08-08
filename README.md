@@ -5,7 +5,7 @@
 
 ### 😺 演示地址
 
-* <https://tool.cccyun.cc>
+* <https://wantoolx.com>
 
 ## 🎑 说明
 > 严禁用于非法用途     
