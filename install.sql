@@ -52,7 +52,7 @@ INSERT INTO `toolbox_config` (`key`, `value`) VALUES
 ('cdn_npm', 'https://unpkg.com/'),
 ('description', '这是一个非常Nice的在线工具箱'),
 ('foot_code', ''),
-('keywords', '彩虹工具网,源码查看器原创,在线,工具'),
+('keywords', '玩Tool在线工具网,源码查看器原创,在线,工具'),
 ('oauth_appid', '1000'),
 ('oauth_appkey', ''),
 ('oauth_appurl', ''),
@@ -61,7 +61,7 @@ INSERT INTO `toolbox_config` (`key`, `value`) VALUES
 ('subtitle', '免费手机工具 站长工具 源代码查看器'),
 ('syskey', ''),
 ('template', 'default'),
-('title', '彩虹工具网');
+('title', '玩Tool在线工具网');
 
 
 DROP TABLE IF EXISTS `toolbox_link`;

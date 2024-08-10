@@ -2,9 +2,9 @@
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
-<title>国庆头像生成 - 彩虹工具网</title>
+<title>国庆头像生成 - 玩Tool在线工具网</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="keywords" content="国庆头像生成,彩虹工具网,在线工具箱">
+<meta name="keywords" content="国庆头像生成,玩Tool在线工具网,在线工具箱">
 <meta name="description" content="国庆专属头像生成，告白祖国，快来一起换头像">
 <style>
         a:link {
